@@ -1,14 +1,2 @@
 # HotPotatoes
 Website for the Hot Potatoes Robotics Team
-<!DOCTYPE html>
-<html>
-<head>
-<title> Hot Potatoes Robotics</title>
-	<link rel="stylesheet" href="style.css">
-</head>
-<body>
-	<h1> Hot Potatoes Robotics Website</h1>
-	<h3> Who we are </h3>
-	<p> The Hot Potatoes Robotics Team is a team made by Middle schoolers from Cooper Middle School. They mainly do VEX IQ robotics competitions. Of these competitions, they have landed second place in the state qualifications and top 5 in the state championship. </p>
-</body>
-</html>
